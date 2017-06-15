@@ -1,0 +1,300 @@
+2017-04-18 23:01:03 pid:21874 Workerman[start.php] start in DEBUG mode
+2017-04-18 23:21:06 pid:22421 Workerman[start.php] start in DEBUG mode
+2017-04-18 23:21:38 pid:22454 Workerman[start.php] stop 
+2017-04-18 23:21:38 pid:22454 Workerman[start.php] not run
+2017-04-18 23:21:52 pid:22468 Workerman[start.php] start in DEBUG mode
+2017-04-18 23:28:16 pid:22647 Workerman[start.php] status 
+2017-04-18 23:28:16 pid:22647 Workerman[start.php] not run
+2017-04-18 23:47:58 pid:23124 Workerman[start.php] start in DEBUG mode
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23130 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:54:59 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:00 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:01 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:01 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:01 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:01 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:01 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:01 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:02 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:02 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:02 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:02 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:03 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:03 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:03 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:03 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:04 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:04 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:05 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:05 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:07 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:07 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:09 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:09 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:10 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:10 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:12 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:12 pid:23131 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:13 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:13 pid:23132 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-18 23:55:50 pid:23438 Workerman[start.php] start in DEBUG mode
+2017-04-19 10:25:05 pid:27385 Workerman[start.php] start in DEBUG mode
+2017-04-21 15:44:57 pid:9290 Workerman[start.php] sTART 
+2017-04-21 15:44:57 pid:9290 Workerman[start.php] not run
+2017-04-21 15:45:10 pid:9308 Workerman[start.php] start in DEBUG mode
+2017-04-21 15:46:56 pid:9359 Workerman[start.php] start in DEBUG mode
+2017-04-21 15:47:13 pid:9376 Workerman[start.php] start in DEBUG mode
+2017-04-21 15:47:23 pid:9392 Workerman[start.php] start in DEBUG mode
+2017-04-21 15:47:34 pid:9401 Workerman[start.php] stop 
+2017-04-21 15:47:34 pid:9401 Workerman[start.php] not run
+2017-04-21 15:50:01 pid:9579 Workerman[start.php] start in DEBUG mode
+2017-04-21 16:21:21 pid:10217 Workerman[start.php] start in DEBUG mode
+2017-04-21 16:22:16 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:16 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:17 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:17 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:19 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:19 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:20 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:20 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:26 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:26 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:28 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:28 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:29 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:29 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:30 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:30 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:31 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:31 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:32 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:32 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:34 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:34 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:36 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:36 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:37 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:37 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:38 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:38 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:39 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:39 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:43 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:43 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:48 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:48 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:52 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:52 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:57 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:22:57 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:23:02 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:23:02 pid:9587 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-04-21 16:23:32 pid:10399 Workerman[start.php] start in DEBUG mode
+2017-05-26 11:09:50 pid:32308 Workerman[start.php] start in DEBUG mode
+2017-05-26 11:19:51 pid:32451 Workerman[start.php] start in DEBUG mode
+2017-05-26 11:19:54 pid:32451 Workerman[start.php] Stopping ...
+2017-05-26 11:19:54 pid:32451 Workerman[start.php] has been stopped
+2017-05-26 11:20:14 pid:32485 Workerman[start.php] start in DAEMON mode
+2017-05-26 11:20:48 pid:32500 Workerman[start.php] status 
+2017-06-05 17:14:15 pid:12957 Workerman[start.php] restart 
+2017-06-05 17:14:15 pid:12957 Workerman[start.php] is stoping ...
+2017-06-05 17:14:15 pid:32487 Workerman[start.php] Stopping ...
+2017-06-05 17:14:15 pid:32487 Workerman[start.php] has been stopped
+2017-06-05 17:14:15 pid:12957 Workerman[start.php] stop success
+2017-06-05 17:14:27 pid:12974 Workerman[start.php] status 
+2017-06-05 17:18:47 pid:12984 Workerman[start.php] restart 
+2017-06-05 17:18:47 pid:12984 Workerman[start.php] is stoping ...
+2017-06-05 17:18:47 pid:12960 Workerman[start.php] Stopping ...
+2017-06-05 17:18:47 pid:12960 Workerman[start.php] has been stopped
+2017-06-05 17:18:47 pid:12984 Workerman[start.php] stop success
+2017-06-05 17:24:41 pid:13012 Workerman[start.php] restart 
+2017-06-05 17:24:41 pid:13012 Workerman[start.php] is stoping ...
+2017-06-05 17:24:41 pid:12986 Workerman[start.php] Stopping ...
+2017-06-05 17:24:41 pid:12986 Workerman[start.php] has been stopped
+2017-06-05 17:24:41 pid:13012 Workerman[start.php] stop success
+2017-06-05 17:26:29 pid:13031 Workerman[start.php] restart 
+2017-06-05 17:26:29 pid:13031 Workerman[start.php] is stoping ...
+2017-06-05 17:26:29 pid:13014 Workerman[start.php] Stopping ...
+2017-06-05 17:26:29 pid:13014 Workerman[start.php] has been stopped
+2017-06-05 17:26:29 pid:13031 Workerman[start.php] stop success
+2017-06-05 17:27:23 pid:13106 Workerman[start.php] restart 
+2017-06-05 17:27:23 pid:13106 Workerman[start.php] is stoping ...
+2017-06-05 17:27:23 pid:13033 Workerman[start.php] Stopping ...
+2017-06-05 17:27:23 pid:13033 Workerman[start.php] has been stopped
+2017-06-05 17:27:23 pid:13106 Workerman[start.php] stop success
+2017-06-05 17:31:41 pid:13199 Workerman[start.php] restart 
+2017-06-05 17:31:41 pid:13199 Workerman[start.php] is stoping ...
+2017-06-05 17:31:41 pid:13108 Workerman[start.php] Stopping ...
+2017-06-05 17:31:41 pid:13108 Workerman[start.php] has been stopped
+2017-06-05 17:31:41 pid:13199 Workerman[start.php] stop success
+2017-06-05 17:32:45 pid:13223 Workerman[start.php] restart 
+2017-06-05 17:32:45 pid:13223 Workerman[start.php] is stoping ...
+2017-06-05 17:32:45 pid:13201 Workerman[start.php] Stopping ...
+2017-06-05 17:32:45 pid:13201 Workerman[start.php] has been stopped
+2017-06-05 17:32:45 pid:13223 Workerman[start.php] stop success
+2017-06-05 17:40:21 pid:13283 Workerman[start.php] restart 
+2017-06-05 17:40:21 pid:13283 Workerman[start.php] is stoping ...
+2017-06-05 17:40:21 pid:13225 Workerman[start.php] Stopping ...
+2017-06-05 17:40:21 pid:13225 Workerman[start.php] has been stopped
+2017-06-05 17:40:21 pid:13283 Workerman[start.php] stop success
+2017-06-05 17:40:47 pid:13299 Workerman[start.php] restart 
+2017-06-05 17:40:47 pid:13299 Workerman[start.php] is stoping ...
+2017-06-05 17:40:47 pid:13285 Workerman[start.php] Stopping ...
+2017-06-05 17:40:47 pid:13285 Workerman[start.php] has been stopped
+2017-06-05 17:40:47 pid:13299 Workerman[start.php] stop success
+2017-06-05 17:44:08 pid:13299 Workerman[start.php] Stopping ...
+2017-06-05 17:44:08 pid:13299 Workerman[start.php] has been stopped
+2017-06-05 17:44:09 pid:13318 Workerman[start.php] restart 
+2017-06-05 17:44:09 pid:13318 Workerman[start.php] is stoping ...
+2017-06-05 17:44:09 pid:13318 Workerman[start.php] stop success
+2017-06-05 17:44:12 pid:13319 WORKER EXIT UNEXPECTED 
+2017-06-05 17:44:19 pid:13322 WORKER EXIT UNEXPECTED 
+2017-06-05 17:44:38 pid:13318 Workerman[start.php] Stopping ...
+2017-06-05 17:44:38 pid:13318 Workerman[start.php] has been stopped
+2017-06-05 17:44:38 pid:13336 Workerman[start.php] restart 
+2017-06-05 17:44:38 pid:13336 Workerman[start.php] is stoping ...
+2017-06-05 17:44:38 pid:13336 Workerman[start.php] stop success
+2017-06-05 17:46:49 pid:13336 Workerman[start.php] Stopping ...
+2017-06-05 17:46:49 pid:13336 Workerman[start.php] has been stopped
+2017-06-05 17:46:50 pid:13399 Workerman[start.php] restart 
+2017-06-05 17:46:50 pid:13399 Workerman[start.php] is stoping ...
+2017-06-05 17:46:50 pid:13399 Workerman[start.php] stop success
+2017-06-05 17:47:17 pid:13403 WORKER EXIT UNEXPECTED 
+2017-06-05 17:47:33 pid:13399 Workerman[start.php] Stopping ...
+2017-06-05 17:47:33 pid:13399 Workerman[start.php] has been stopped
+2017-06-05 17:47:35 pid:13416 Workerman[start.php] restart 
+2017-06-05 17:47:35 pid:13416 Workerman[start.php] is stoping ...
+2017-06-05 17:47:35 pid:13416 Workerman[start.php] stop success
+2017-06-05 17:48:20 pid:13416 Workerman[start.php] Stopping ...
+2017-06-05 17:48:20 pid:13416 Workerman[start.php] has been stopped
+2017-06-05 17:48:21 pid:13431 Workerman[start.php] restart 
+2017-06-05 17:48:21 pid:13431 Workerman[start.php] is stoping ...
+2017-06-05 17:48:21 pid:13431 Workerman[start.php] stop success
+2017-06-05 17:51:57 pid:13431 Workerman[start.php] Stopping ...
+2017-06-05 17:51:57 pid:13431 Workerman[start.php] has been stopped
+2017-06-05 17:52:00 pid:13512 Workerman[start.php] restart 
+2017-06-05 17:52:00 pid:13512 Workerman[start.php] is stoping ...
+2017-06-05 17:52:00 pid:13512 Workerman[start.php] stop success
+2017-06-05 17:52:14 pid:13526 Workerman[start.php] status 
+2017-06-09 17:39:23 pid:3689 Workerman[start.php] status 
+2017-06-09 17:39:32 pid:3719 Workerman[start.php] restart 
+2017-06-09 17:39:32 pid:3719 Workerman[start.php] is stoping ...
+2017-06-09 17:39:32 pid:13514 Workerman[start.php] Stopping ...
+2017-06-09 17:39:32 pid:13514 Workerman[start.php] has been stopped
+2017-06-09 17:39:32 pid:3719 Workerman[start.php] stop success
+2017-06-09 17:44:59 pid:3719 Workerman[start.php] Stopping ...
+2017-06-09 17:44:59 pid:3719 Workerman[start.php] has been stopped
+2017-06-09 17:45:02 pid:3937 Workerman[start.php] restart 
+2017-06-09 17:45:02 pid:3937 Workerman[start.php] is stoping ...
+2017-06-09 17:45:02 pid:3937 Workerman[start.php] stop success
+2017-06-12 14:16:07 pid:12428 Workerman[start.php] restart 
+2017-06-12 14:16:07 pid:12428 Workerman[start.php] is stoping ...
+2017-06-12 14:16:07 pid:3939 Workerman[start.php] Stopping ...
+2017-06-12 14:16:07 pid:3939 Workerman[start.php] has been stopped
+2017-06-12 14:16:07 pid:12428 Workerman[start.php] stop success
+2017-06-12 17:45:29 pid:12428 Workerman[start.php] Stopping ...
+2017-06-12 17:45:29 pid:12428 Workerman[start.php] has been stopped
+2017-06-12 17:45:31 pid:15234 Workerman[start.php] restart 
+2017-06-12 17:45:31 pid:15234 Workerman[start.php] is stoping ...
+2017-06-12 17:45:31 pid:15234 Workerman[start.php] stop success
