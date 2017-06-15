@@ -106,8 +106,8 @@ class Events
 				return array();
 			}
 		}
-		$ur='http://ms.b2l.com/upload/productAiFindImg/'.$file_name;
-		$url="https://www.birds22.cn/home/index/ProductAi?url=".$ur;
+		$ur='http://xxx.com/'.$file_name;
+		$url="https://xxx.com".$ur;
 
 		$curl=curl_init();
 		curl_setopt($curl, CURLOPT_URL, $url);
